@@ -19,7 +19,9 @@ class BlueTableViewCell: UITableViewCell {
   
     override func awakeFromNib() {
         super.awakeFromNib()
-      backgroundColor = .red
+      backgroundColor = UIColor(red: 204/255, green: 255/255, blue: 255/255, alpha: 1)
+      nameLabel.textColor = .darkGray
+      rssiLabel.textColor = .darkGray
   
   }
 
