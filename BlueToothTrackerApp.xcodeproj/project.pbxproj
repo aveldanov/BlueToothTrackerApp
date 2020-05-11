@@ -13,6 +13,7 @@
 		21E1CB3D2467D2D200DF74DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21E1CB3B2467D2D200DF74DF /* Main.storyboard */; };
 		21E1CB3F2467D2D600DF74DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21E1CB3E2467D2D600DF74DF /* Assets.xcassets */; };
 		21E1CB422467D2D600DF74DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21E1CB402467D2D600DF74DF /* LaunchScreen.storyboard */; };
+		21E1CB4A2467D71700DF74DF /* BlueTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E1CB492467D71700DF74DF /* BlueTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		21E1CB3E2467D2D600DF74DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21E1CB412467D2D600DF74DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21E1CB432467D2D600DF74DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21E1CB492467D71700DF74DF /* BlueTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				21E1CB352467D2D200DF74DF /* AppDelegate.swift */,
 				21E1CB372467D2D200DF74DF /* SceneDelegate.swift */,
 				21E1CB392467D2D200DF74DF /* ViewController.swift */,
+				21E1CB492467D71700DF74DF /* BlueTableViewCell.swift */,
 				21E1CB3B2467D2D200DF74DF /* Main.storyboard */,
 				21E1CB3E2467D2D600DF74DF /* Assets.xcassets */,
 				21E1CB402467D2D600DF74DF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21E1CB3A2467D2D200DF74DF /* ViewController.swift in Sources */,
+				21E1CB4A2467D71700DF74DF /* BlueTableViewCell.swift in Sources */,
 				21E1CB362467D2D200DF74DF /* AppDelegate.swift in Sources */,
 				21E1CB382467D2D200DF74DF /* SceneDelegate.swift in Sources */,
 			);
